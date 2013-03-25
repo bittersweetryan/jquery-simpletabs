@@ -1,0 +1,1 @@
+{"ts":1364228231771,"silentsave":true,"restoring":false,"patch":[[{"diffs":[[1,"#jQuery SimpleTabs\n\njQuery SimpleTabs is a completely UI agnostic implementation of a tabbed interface.  \n\nTabs will use your styles and your markup, the only required markup is that your tabs are in a `ul`."]],"start1":0,"start2":0,"length1":0,"length2":207}]],"length":207}
